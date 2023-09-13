@@ -1,0 +1,32 @@
+.back-1 {
+    background-color: #FFFF00;
+    color: black;
+    height: 30px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.back-2 {
+    background-color: #2c2c2c;
+    height: 130px;
+    color: white;
+}
+
+.back-3 {
+    background-color: #2c2c2c;
+    height: 10px;
+}
+
+.back-fotos {
+    color: white;
+    background-color: #2c2c2c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h1{
+    font-size: 20px;
+}
