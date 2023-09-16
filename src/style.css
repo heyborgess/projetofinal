@@ -51,8 +51,12 @@ h1{
     background-color: #FFFF00;
     display:grid;
     border-radius: 15px;
+
 }
 
+.atendimento {
+    width: 35px;
+}
 
 .soli {
     color: #2c2c2c;
@@ -66,5 +70,14 @@ h1{
     color: black;
 }
 
+.img-orc {
+    size: 10px;
+}
 
+.container-preto {
+    background-color: #2c2c2c;
+}
 
+.cred {
+    height: 250px;
+}
