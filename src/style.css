@@ -79,5 +79,20 @@ h1{
 }
 
 .cred {
-    height: 250px;
+    display: flex;
 }
+
+.cred h1 {
+    padding-left: 200px;
+    padding-top: 25px;
+    color: black;
+    font-size: 45px;
+    justify-content: center;
+
+}
+
+.img-logo {
+    width: 220px;
+    padding-top: 40px;
+}
+
